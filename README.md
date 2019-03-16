@@ -1,6 +1,7 @@
 # OMR-classification-dataset
 
 Dataset created by [attoPascal](https://github.com/attoPascal) for Optical Music Recognition. You can download the original version in [his webpage](https://homepage.univie.ac.at/pascal.attwenger/bachelor/).
+
 ![](dataset/note-eighth-a1-167.png)![](dataset/note-eighth-c1-668.png)![](dataset/note-quarter-h1-4124.png)![](dataset/rest-eighth-4689.png)![](dataset/rest-quarter-120.png)![](dataset/rest-whole-3801.png)
 
 ## Wrong labeling
@@ -38,3 +39,13 @@ In the next heatmap we can see what classes are poorly represented:
 <p align="center">
   <img src="images/heatmap.png" width="800" title="hover text">
 </p>
+
+## Low quality images
+
+If you don't want difficult examples, you can delete the following images:
+```
+note-eighth-h1-4158
+note-eighth-h1-4493
+note-half-g1-3599
+```
+![](dataset/note-eighth-h1-4158.png)![](dataset/note-eighth-h1-4493.png)![](dataset/note-half-g1-3599.png)
