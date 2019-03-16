@@ -1,4 +1,4 @@
-# OMR-clasification-dataset
+# OMR-classification-dataset
 
 Dataset created by [attoPascal](https://github.com/attoPascal) for Optical Music Recognition. You can download the original version in [his webpage](https://homepage.univie.ac.at/pascal.attwenger/bachelor/).
 ![](dataset/note-eighth-a1-167.png)![](dataset/note-eighth-c1-668.png)![](dataset/note-quarter-h1-4124.png)![](dataset/rest-eighth-4689.png)![](dataset/rest-quarter-120.png)![](dataset/rest-whole-3801.png)
